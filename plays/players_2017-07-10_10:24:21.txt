@@ -1,7 +1,7 @@
 James Rodríguez
 Douglas Costa
-Romelu Lukaku
 Ivan Perisic
+Romelu Lukaku
 Diego Costa
 Jamie Vardy
 Ross Barkley
@@ -18,28 +18,28 @@ Corentin Tolisso
 Fabinho
 Michael Keane
 Luke Shaw
+Paulo Dybala
 Olivier Giroud
 Alexandre Lacazette
 Thiago Alcántara
 N'Golo Kanté
 Gianluigi Donnarumma
-Andrea Belotti
 Antoine Griezmann
 Nemanja Matic
-Virgil van Dijk
 Mesut Ozil
 Danny Welbeck
 Jordan Pickford
+Virgil van Dijk
 Michy Batshuayi
 Jesse Lingard
 Radamel Falcao
+Andrea Belotti
 Daniel Sturridge
 Jordan Henderson
 Moussa Dembele
 Thomas Müller
 Radja Nainggolan
 Vincent Janssen
-Saul Niguez
 Nathan Redmond
 Gelson Martins
 Julian Brandt
@@ -53,7 +53,6 @@ Wilfried Bony
 Danny Ings
 Seamus Coleman
 Lionel Messi
-Ben Gibson
 Memphis Depay
 Santi Cazorla
 Jermain Defoe
@@ -97,7 +96,6 @@ Roberto Firmino
 Arda Turan
 Danny Rose
 Breel Embolo
-Kurt Zouma
 Adama Traoré
 Kasper Dolberg
 Domenico Berardi
@@ -110,31 +108,34 @@ Raheem Sterling
 John Terry
 Christian Pulisic
 Erik Lamela
-Victor Lindelöf
 Wilfried Zaha
 Marco Verratti
+Victor Lindelöf
 Bernardo Silva
 David de Gea
+Kurt Zouma
 Harry Kane
 Alex Oxlade-Chamberlain
+Saul Niguez
 Ben Woodburn
 Justin Kluivert
 Joe Hart
 Timo Werner
-Naby Keïta
+Isco
 Ademola Lookman
 Christian Benteke
 Chris Smalling
 İlkay Gündoğan
+Naby Keïta
 Harry Winks
 Vincent Kompany
 Youri Tielemans
 Kingsley Coman
 Charlie Austin
+Juan Cuadrado
 Eric Dier
 Renato Sanches
 Paul Pogba
-Juan Cuadrado
 Demarai Gray
 Anthony Martial
 Arturo Vidal
@@ -143,20 +144,17 @@ Manuel Neuer
 Nathan Aké
 Andrés Iniesta
 Lorenzo Insigne
-Paulo Dybala
 Mohamed Salah
 Kevin De Bruyne
 Manolo Gabbiadini
 Javier Hernández
 Victor Moses
-Isco
 Gabriel Jesus
 Samir Nasri
 David Luiz
 Leroy Sane
 Dani Alves
 Luka Modrić
-David Alaba
 Fernando Llorente
 Benjamin Mendy
 Son Heung-min
@@ -168,29 +166,31 @@ Hector Bellerin
 Ander Herrera
 Emre Can
 Georginio Wijnaldum
+Hugo Lloris
+David Alaba
 Toby Alderweireld
 Philippe Coutinho
 Cristiano Ronaldo
 Raphaël Varane
-Hugo Lloris
 Tom Davies
 Zlatan Ibrahimović
 Kasper Schmeichel
 Cesc Fabregas
 Neymar
+Ben Gibson
 Eden Hazard
+Álvaro Morata
 Marco Asensio
 Mario Balotelli
-Riyad Mahrez
-Robert Lewandowski
 Juan Mata
 Kyle Walker
+Robert Lewandowski
 Alexis Sanchez
+Riyad Mahrez
 Toni Kroos
 Kylian Mbappé
-Alex Sandro
 Christian Eriksen
-Álvaro Morata
+Alex Sandro
 Gareth Bale
 Edin Dzeko
 Antonio Valencia
